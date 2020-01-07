@@ -26,4 +26,5 @@ int main(int argc, char *argv[])
             min = atof(argv[i]);
     }
     printf("Min parameter is %d\n", min);
+    return 0;
 }
