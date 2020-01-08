@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
     }
     printf("Min parameter is %d\n", min);
     return 0;
-}
+} 
 int judge(char *s)
 {
     int p = 0, q = strlen(s);
