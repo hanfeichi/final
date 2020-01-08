@@ -34,6 +34,6 @@ int judge(char *s)
         p++;
     if (p == q)
         return 0;
-    else
+    else 
         return -1;
 }
